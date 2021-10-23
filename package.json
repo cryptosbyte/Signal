@@ -1,0 +1,13 @@
+{
+  "name": "Signal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.11.4",
+    "typescript": "^4.4.4"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}

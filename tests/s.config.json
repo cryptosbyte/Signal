@@ -1,0 +1,38 @@
+{
+  "signal": {
+    "background": [
+      "file",
+      "/home/cryptosdev420/Signal/my_image.png"
+    ],
+    "constant": [
+      {
+        "type": "navbar",
+        "content": {
+          "home": "https://mydomain.com/",
+          "apps": "https://mydomain.com/",
+          "shop": "https://mydomain.com/"
+        }
+      }
+    ],
+    "page1": [
+      {
+        "type": "profile",
+        "position": "left | center | right",
+        "img_location": "/home/cryptos/Images/my_image.png",
+        "img_border": [true, "00aaff"]
+      },
+      {
+        "comment": "if profile pos. left then text is right, if profile pos is right, then text is left, elif center, text under"
+      },
+      {
+        "type": "profile-username",
+        "content": "@cryptos"
+      },
+      {
+        "type": "profile-location",
+        "content": "NYC Parlor"
+      }
+    ]
+  },
+  "styles": "555"
+}

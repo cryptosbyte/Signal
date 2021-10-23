@@ -1,0 +1,10 @@
+node_modules
+build
+out/
+
+*.lock
+*-lock.json
+
+tsconfig.tsbuildinfo
+
+*.png
